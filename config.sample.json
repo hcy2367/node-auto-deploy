@@ -1,0 +1,17 @@
+{
+  "tasks": {
+    "swedu-club": ["echo 'GitLab Server %s'",
+      "echo 'Repository: %r'",
+      "echo 'User: %u'",
+      "echo 'Branch: %b'",
+      "echo 'Git Url: %g'",
+      "echo 'Last Commit: %i'",
+      "echo '\tMessage: %m'",
+      "echo '\tTime: %t'",
+      "cd /home/cloud/nodeclub",
+      "git pull",
+      "make build",
+      "pm2 restart app.js"
+    ]
+  }
+}
