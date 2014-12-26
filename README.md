@@ -1,5 +1,3 @@
-node-auto-deploy
-====
 ## Auto Deploy
 ### nodejs实现的简易自动部署工具
 
