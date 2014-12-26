@@ -5,5 +5,4 @@ var gitlab = gitlabhook({
 
 gitlab.listen();
 
-// create chmyun branch
 

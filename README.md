@@ -5,6 +5,6 @@
 * npm install 安装包
 * cp config.sample.json config.json 并配置文件
 * node index.js 启动服务
-* github项目设置中设置push hook
+* gitlib项目设置中设置push hook
 * 测试hooks
 * done
